@@ -12,7 +12,7 @@ For Churchtools
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/ArmanDinarvand/Arman_Project/Arman_Project.git
+    git clone https://github.com/ArmanDinarvand/Arman_Project/
     cd Arman_Project
     ```
 
