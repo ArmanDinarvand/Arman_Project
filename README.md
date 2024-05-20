@@ -9,11 +9,10 @@ For Churchtools
 
 ## Steps to Run the Application
 
-1. Clone the repository to your local machine:
-
+1. Unzip the project folder to your local machine.
     ```bash
-    git clone https://github.com/ArmanDinarvand/Arman_Project/
-    cd Arman_Project
+    unzip my_project.zip
+    cd my_project
     ```
 
 2. Build and start the Docker containers:
